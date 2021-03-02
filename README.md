@@ -3,5 +3,9 @@
 Olá! Bem vindo ao meu Livro de Receitas :wave:
 
 - Strogonoff de frango
+
 - Pavê
+
 - Bolo de Carne
+
+- Bolo de Batata
