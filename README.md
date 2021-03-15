@@ -9,3 +9,7 @@ Olá! Bem vindo ao meu Livro de Receitas :wave:
 - Bolo de Carne
 
 - Bolo de Batata
+
+- Bolo de Cenoura
+
+  
